@@ -1,0 +1,1 @@
+SELECT * FROM Sanpham,Hangsx WHERE tenhang = 'Samsung' AND giaban >= 100000 AND giaban <= 500000;
